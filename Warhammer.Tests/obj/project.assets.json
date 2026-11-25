@@ -935,11 +935,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\nstu\\prog_c#\\lab_3\\Warhammer.Tests\\Warhammer.Tests.csproj",
+      "projectUniqueName": "C:\\nstu\\prog_c#\\github\\lab_3\\Warhammer.Tests\\Warhammer.Tests.csproj",
       "projectName": "Warhammer.Tests",
-      "projectPath": "C:\\nstu\\prog_c#\\lab_3\\Warhammer.Tests\\Warhammer.Tests.csproj",
+      "projectPath": "C:\\nstu\\prog_c#\\github\\lab_3\\Warhammer.Tests\\Warhammer.Tests.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\nstu\\prog_c#\\lab_3\\Warhammer.Tests\\obj\\",
+      "outputPath": "C:\\nstu\\prog_c#\\github\\lab_3\\Warhammer.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -957,8 +957,8 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\nstu\\prog_c#\\lab_3\\Warhammer\\Warhammer.csproj": {
-              "projectPath": "C:\\nstu\\prog_c#\\lab_3\\Warhammer\\Warhammer.csproj"
+            "C:\\nstu\\prog_c#\\github\\lab_3\\Warhammer\\Warhammer.csproj": {
+              "projectPath": "C:\\nstu\\prog_c#\\github\\lab_3\\Warhammer\\Warhammer.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\nstu\\prog_c#\\lab_3\\Warhammer\\",
+  "WorkspaceRootPath": "C:\\nstu\\prog_c#\\github\\lab_3\\Warhammer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A256570-F295-0A7D-8C8B-382AEF0D4F78}|Warhammer.csproj|c:\\nstu\\prog_c#\\lab_3\\warhammer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7A256570-F295-0A7D-8C8B-382AEF0D4F78}|Warhammer.csproj|c:\\nstu\\prog_c#\\github\\lab_3\\warhammer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A256570-F295-0A7D-8C8B-382AEF0D4F78}|Warhammer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A256570-F295-0A7D-8C8B-382AEF0D4F78}|Warhammer.csproj|c:\\nstu\\prog_c#\\lab_3\\warhammer\\ui\\renderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7A256570-F295-0A7D-8C8B-382AEF0D4F78}|Warhammer.csproj|c:\\nstu\\prog_c#\\github\\lab_3\\warhammer\\ui\\renderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A256570-F295-0A7D-8C8B-382AEF0D4F78}|Warhammer.csproj|solutionrelative:ui\\renderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A256570-F295-0A7D-8C8B-382AEF0D4F78}|Warhammer.csproj|c:\\nstu\\prog_c#\\lab_3\\warhammer\\logic\\abilityhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7A256570-F295-0A7D-8C8B-382AEF0D4F78}|Warhammer.csproj|c:\\nstu\\prog_c#\\github\\lab_3\\warhammer\\logic\\abilityhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A256570-F295-0A7D-8C8B-382AEF0D4F78}|Warhammer.csproj|solutionrelative:logic\\abilityhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,9 +28,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\nstu\\prog_c#\\lab_3\\Warhammer\\Program.cs",
+              "DocumentMoniker": "C:\\nstu\\prog_c#\\github\\lab_3\\Warhammer\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\nstu\\prog_c#\\lab_3\\Warhammer\\Program.cs",
+              "ToolTip": "C:\\nstu\\prog_c#\\github\\lab_3\\Warhammer\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -41,27 +41,25 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Renderer.cs",
-              "DocumentMoniker": "C:\\nstu\\prog_c#\\lab_3\\Warhammer\\UI\\Renderer.cs",
+              "DocumentMoniker": "C:\\nstu\\prog_c#\\github\\lab_3\\Warhammer\\UI\\Renderer.cs",
               "RelativeDocumentMoniker": "UI\\Renderer.cs",
-              "ToolTip": "C:\\nstu\\prog_c#\\lab_3\\Warhammer\\UI\\Renderer.cs",
+              "ToolTip": "C:\\nstu\\prog_c#\\github\\lab_3\\Warhammer\\UI\\Renderer.cs",
               "RelativeToolTip": "UI\\Renderer.cs",
               "ViewState": "AgIAAEsAAAAAAAAAAAA4wFcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-25T05:52:58.438Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-25T05:52:58.438Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "AbilityHandling.cs",
-              "DocumentMoniker": "C:\\nstu\\prog_c#\\lab_3\\Warhammer\\Logic\\AbilityHandling.cs",
+              "DocumentMoniker": "C:\\nstu\\prog_c#\\github\\lab_3\\Warhammer\\Logic\\AbilityHandling.cs",
               "RelativeDocumentMoniker": "Logic\\AbilityHandling.cs",
-              "ToolTip": "C:\\nstu\\prog_c#\\lab_3\\Warhammer\\Logic\\AbilityHandling.cs",
+              "ToolTip": "C:\\nstu\\prog_c#\\github\\lab_3\\Warhammer\\Logic\\AbilityHandling.cs",
               "RelativeToolTip": "Logic\\AbilityHandling.cs",
               "ViewState": "AgIAAGoAAAAAAAAAAAAgwGgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-25T05:46:09.144Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-25T05:46:09.144Z"
             }
           ]
         },

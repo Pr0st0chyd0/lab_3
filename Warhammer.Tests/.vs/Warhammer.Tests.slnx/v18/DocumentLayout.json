@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\nstu\\prog_c#\\lab_3\\Warhammer.Tests\\",
+  "WorkspaceRootPath": "C:\\nstu\\prog_c#\\github\\lab_3\\Warhammer.Tests\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A894E68E-9943-BC62-351F-59B0F7601D85}|Warhammer.Tests.csproj|c:\\nstu\\prog_c#\\lab_3\\warhammer.tests\\warhammer.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{A894E68E-9943-BC62-351F-59B0F7601D85}|Warhammer.Tests.csproj|c:\\nstu\\prog_c#\\github\\lab_3\\warhammer.tests\\warhammer.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A894E68E-9943-BC62-351F-59B0F7601D85}|Warhammer.Tests.csproj|solutionrelative:warhammer.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
@@ -23,9 +23,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Warhammer.Tests.csproj",
-              "DocumentMoniker": "C:\\nstu\\prog_c#\\lab_3\\Warhammer.Tests\\Warhammer.Tests.csproj",
+              "DocumentMoniker": "C:\\nstu\\prog_c#\\github\\lab_3\\Warhammer.Tests\\Warhammer.Tests.csproj",
               "RelativeDocumentMoniker": "Warhammer.Tests.csproj",
-              "ToolTip": "C:\\nstu\\prog_c#\\lab_3\\Warhammer.Tests\\Warhammer.Tests.csproj",
+              "ToolTip": "C:\\nstu\\prog_c#\\github\\lab_3\\Warhammer.Tests\\Warhammer.Tests.csproj",
               "RelativeToolTip": "Warhammer.Tests.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -37,9 +37,9 @@
               "DocumentIndex": 1,
               "Title": "TileKind.cs",
               "DocumentMoniker": "C:\\nstu\\prog_c#\\lab_3\\WarhammerMinimal\\Models\\TileKind.cs",
-              "RelativeDocumentMoniker": "..\\WarhammerMinimal\\Models\\TileKind.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\lab_3\\WarhammerMinimal\\Models\\TileKind.cs",
               "ToolTip": "C:\\nstu\\prog_c#\\lab_3\\WarhammerMinimal\\Models\\TileKind.cs",
-              "RelativeToolTip": "..\\WarhammerMinimal\\Models\\TileKind.cs",
+              "RelativeToolTip": "..\\..\\..\\lab_3\\WarhammerMinimal\\Models\\TileKind.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-24T10:13:33.377Z"

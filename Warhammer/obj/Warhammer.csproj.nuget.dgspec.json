@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\nstu\\prog_c#\\lab_3\\Warhammer\\Warhammer.csproj": {}
+    "C:\\nstu\\prog_c#\\github\\lab_3\\Warhammer\\Warhammer.csproj": {}
   },
   "projects": {
-    "C:\\nstu\\prog_c#\\lab_3\\Warhammer\\Warhammer.csproj": {
+    "C:\\nstu\\prog_c#\\github\\lab_3\\Warhammer\\Warhammer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\nstu\\prog_c#\\lab_3\\Warhammer\\Warhammer.csproj",
+        "projectUniqueName": "C:\\nstu\\prog_c#\\github\\lab_3\\Warhammer\\Warhammer.csproj",
         "projectName": "Warhammer",
-        "projectPath": "C:\\nstu\\prog_c#\\lab_3\\Warhammer\\Warhammer.csproj",
+        "projectPath": "C:\\nstu\\prog_c#\\github\\lab_3\\Warhammer\\Warhammer.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\nstu\\prog_c#\\lab_3\\Warhammer\\obj\\",
+        "outputPath": "C:\\nstu\\prog_c#\\github\\lab_3\\Warhammer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
