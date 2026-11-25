@@ -1,0 +1,15 @@
+C:\nstu\prog_c#\lab_3\Warhammer\bin\Debug\net10.0\Warhammer.exe
+C:\nstu\prog_c#\lab_3\Warhammer\bin\Debug\net10.0\Warhammer.deps.json
+C:\nstu\prog_c#\lab_3\Warhammer\bin\Debug\net10.0\Warhammer.runtimeconfig.json
+C:\nstu\prog_c#\lab_3\Warhammer\bin\Debug\net10.0\Warhammer.dll
+C:\nstu\prog_c#\lab_3\Warhammer\bin\Debug\net10.0\Warhammer.pdb
+C:\nstu\prog_c#\lab_3\Warhammer\obj\Debug\net10.0\Warhammer.GeneratedMSBuildEditorConfig.editorconfig
+C:\nstu\prog_c#\lab_3\Warhammer\obj\Debug\net10.0\Warhammer.AssemblyInfoInputs.cache
+C:\nstu\prog_c#\lab_3\Warhammer\obj\Debug\net10.0\Warhammer.AssemblyInfo.cs
+C:\nstu\prog_c#\lab_3\Warhammer\obj\Debug\net10.0\Warhammer.csproj.CoreCompileInputs.cache
+C:\nstu\prog_c#\lab_3\Warhammer\obj\Debug\net10.0\Warhammer.dll
+C:\nstu\prog_c#\lab_3\Warhammer\obj\Debug\net10.0\refint\Warhammer.dll
+C:\nstu\prog_c#\lab_3\Warhammer\obj\Debug\net10.0\Warhammer.pdb
+C:\nstu\prog_c#\lab_3\Warhammer\obj\Debug\net10.0\Warhammer.genruntimeconfig.cache
+C:\nstu\prog_c#\lab_3\Warhammer\obj\Debug\net10.0\ref\Warhammer.dll
+C:\nstu\prog_c#\lab_3\Warhammer\obj\Debug\net10.0\Warhammer.csproj.Up2Date

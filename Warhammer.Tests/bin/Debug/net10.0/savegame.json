@@ -1,0 +1,27 @@
+{
+  "Width": 8,
+  "Height": 8,
+  "Tiles": [],
+  "Units": [
+    {
+      "Id": "7839afe0-97bc-474c-a93e-f32fea3cfc3e",
+      "Name": "Test Unit",
+      "Team": 0,
+      "X": 3,
+      "Y": 4,
+      "Hp": 12,
+      "MaxHp": 0,
+      "Damage": 0,
+      "MoveRange": 2,
+      "AttackRange": 1,
+      "MaxAp": 2,
+      "Ap": 2,
+      "ActiveAbilities": [],
+      "PassiveAbilities": [],
+      "RageTurnsLeft": 0,
+      "CurseTurnsLeft": 0
+    }
+  ],
+  "CurrentTeam": 1,
+  "TurnNumber": 5
+}

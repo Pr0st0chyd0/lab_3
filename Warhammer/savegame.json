@@ -1,0 +1,198 @@
+{
+  "Width": 10,
+  "Height": 8,
+  "Tiles": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "Units": [
+    {
+      "Id": "1f8487c3-58e1-4de6-82e9-ad796feff2a8",
+      "Name": "Space Marine",
+      "Team": 0,
+      "X": 1,
+      "Y": 1,
+      "Hp": 20,
+      "MaxHp": 20,
+      "Damage": 5,
+      "MoveRange": 2,
+      "AttackRange": 1,
+      "ActiveAbilities": [
+        "rage",
+        "bolter"
+      ],
+      "PassiveAbilities": [
+        "toughness"
+      ],
+      "RageTurnsLeft": 0,
+      "CurseTurnsLeft": 0,
+      "MaxAp": 2,
+      "Ap": 2
+    },
+    {
+      "Id": "b0154c8b-4d86-4765-861b-df64adcc072c",
+      "Name": "Apothecary",
+      "Team": 0,
+      "X": 1,
+      "Y": 6,
+      "Hp": 15,
+      "MaxHp": 15,
+      "Damage": 3,
+      "MoveRange": 2,
+      "AttackRange": 1,
+      "ActiveAbilities": [
+        "heal",
+        "narthecium"
+      ],
+      "PassiveAbilities": [
+        "regen"
+      ],
+      "RageTurnsLeft": 0,
+      "CurseTurnsLeft": 0,
+      "MaxAp": 2,
+      "Ap": 2
+    },
+    {
+      "Id": "fc7b6249-7e42-4cd2-8fbe-71691587cc86",
+      "Name": "Chaos Marine",
+      "Team": 1,
+      "X": 8,
+      "Y": 6,
+      "Hp": 18,
+      "MaxHp": 18,
+      "Damage": 5,
+      "MoveRange": 2,
+      "AttackRange": 1,
+      "ActiveAbilities": [
+        "rage",
+        "chainsword"
+      ],
+      "PassiveAbilities": [
+        "zeal"
+      ],
+      "RageTurnsLeft": 0,
+      "CurseTurnsLeft": 0,
+      "MaxAp": 2,
+      "Ap": 2
+    },
+    {
+      "Id": "6f8120e3-5d49-4fbe-a5c5-8152275d9689",
+      "Name": "Sorcerer",
+      "Team": 1,
+      "X": 8,
+      "Y": 1,
+      "Hp": 14,
+      "MaxHp": 14,
+      "Damage": 4,
+      "MoveRange": 2,
+      "AttackRange": 2,
+      "ActiveAbilities": [
+        "smite",
+        "curse"
+      ],
+      "PassiveAbilities": [
+        "toughness"
+      ],
+      "RageTurnsLeft": 0,
+      "CurseTurnsLeft": 0,
+      "MaxAp": 2,
+      "Ap": 2
+    }
+  ],
+  "CurrentTeam": 0,
+  "TurnNumber": 1
+}

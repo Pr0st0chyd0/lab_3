@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../Warhammer/Warhammer.csproj" />
+  <Project Path="Warhammer.Tests.csproj" />
+</Solution>
